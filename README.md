@@ -1,6 +1,6 @@
 # CRUD Buku - Laravel S3
 
-Aplikasi CRUD Buku sederhana berbasis Laravel 11 dengan integrasi penyimpanan sampul buku ke cloud storage S3/MinIO.
+Aplikasi CRUD Buku sederhana dengan integrasi penyimpanan sampul buku ke cloud storage S3/MinIO.
 
 ## Fitur
 - CRUD Buku (Tambah, Lihat, Edit, Hapus)
